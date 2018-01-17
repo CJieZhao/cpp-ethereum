@@ -53,8 +53,8 @@ set(HUNTER_JOBS_NUMBER 4)
 set(HUNTER_CACHE_SERVERS "https://github.com/ethereum/hunter-cache")
 include(HunterGate)
 HunterGate(
-    URL "https://github.com/ruslo/hunter/archive/v0.19.173.tar.gz"
-    SHA1 "750fb1d621af971fad6f303356b13017ad9f5e15"
+    URL "https://github.com/ruslo/hunter/archive/v0.19.231.tar.gz"
+    SHA1 "2742c88fa6aa7dd47d7ab62f069d97790ad05406"
     LOCAL
 )
 
